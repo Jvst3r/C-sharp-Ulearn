@@ -1,0 +1,11 @@
+C:\Users\arsun\source\repos\Prison Escape Game\obj\Debug\PrisonEscapeGame.csproj.AssemblyReference.cache
+C:\Users\arsun\source\repos\Prison Escape Game\obj\Debug\Prison_Escape_Game.Properties.Resources.resources
+C:\Users\arsun\source\repos\Prison Escape Game\obj\Debug\PrisonEscapeGame.csproj.GenerateResource.cache
+C:\Users\arsun\source\repos\Prison Escape Game\obj\Debug\PrisonEscapeGame.csproj.CoreCompileInputs.cache
+C:\Users\arsun\source\repos\Prison Escape Game\obj\Debug\PrisonEscapeGame.View.Forms.MainMenuForm.resources
+C:\Users\arsun\source\repos\Prison Escape Game\bin\Debug\Prison Escape Game.exe.config
+C:\Users\arsun\source\repos\Prison Escape Game\bin\Debug\Prison Escape Game.exe
+C:\Users\arsun\source\repos\Prison Escape Game\bin\Debug\Prison Escape Game.pdb
+C:\Users\arsun\source\repos\Prison Escape Game\obj\Debug\Prison Escape Game.exe
+C:\Users\arsun\source\repos\Prison Escape Game\obj\Debug\Prison Escape Game.pdb
+C:\Users\arsun\source\repos\Prison Escape Game\obj\Debug\Prison_Escape_Game.View.Forms.GameForm.resources
